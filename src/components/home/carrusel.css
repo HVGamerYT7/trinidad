@@ -1,0 +1,19 @@
+.imagen {
+  display: flex;
+  margin: 0 auto;
+  width: 100%; /* Tamaño deseado para el ancho de la imagen */
+  max-height: 500px; /* Tamaño deseado para la altura de la imagen */
+  max-width: 60%; /* Ajusta según sea necesario para mantener la proporción de la imagen */
+  max-height: auto;
+  min-height: 350px; /* Hace que la imagen sea responsive */
+  min-width: 500px;
+  border-radius: 2%;
+}
+
+.carrusel
+{
+  background-color: #f2f2f2;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 2%;
+}
